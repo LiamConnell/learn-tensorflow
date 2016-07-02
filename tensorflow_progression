@@ -1,0 +1,34 @@
+A basic learning progression for tensorflow applications:
+
+1) Regression: 
+    y = W * x + b ,     where W is [100, 1] and b is [1, ] 
+    cost = tf.reduce_sum(tf.pow(y-y_, 2))/(2*1000)
+    optimizer = tf.train.GradientDescentOptimizer(0.5).minimize(cost)
+    
+2) Neural Net
+    pred = multilayer_perceptron(x, weights, biases)
+    cost = tf.reduce_mean(tf.nn.l2_loss(pred - y_))
+    optimizer = tf.train.AdamOptimizer(learning_rate=learning_rate).minimize(cost)
+    
+3) Multi Symbol Regr
+
+4) Multi Symbol Neural Net
+
+5) Neural net with specific architecture
+
+6) LSTM
+
+
+
+
+
+
+Things to learn:
+    cost and optimization functions
+    logits
+    cross entropy
+    softmax
+    reduce mean
+    reduce sum
+    l2 loss
+    

@@ -1,6 +1,6 @@
 #TensorFlow Learner's ScratchPad
 
-As I learn tensorflow I apply it to financial time series data. So far I have created a simple regression, multi-layer perceptron neural network, an LSTM recurrent neural network, and a Policy Gradient Reinforcement Learning network. This repository will be revamped soon to me a better educational resource and have a cleaner presentation of my projects and results. I'll like to the new version here when I have it. 
+While I learn tensorflow I apply it to financial time series data. So far I've created simple regressions, multi-layer perceptron neural networks, LSTM recurrent neural networks, and a Policy Gradient Reinforcement Learning network. This repository will be revamped soon to me a better educational resource and have a cleaner presentation of my projects and results. I'll like to the new version here when I have it. 
 
 ###Teach Yourself
 
